@@ -8,7 +8,7 @@ function App() {
       date: new Date(4,12,2000)
     },
     {
-      title: "Science",
+      title: "Scienceee",
       amount: 300,
       date: new Date(4,12,2010)
     },
