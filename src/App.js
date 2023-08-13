@@ -1,5 +1,4 @@
 import Lecture from "./components/Lecture";
-import NewLecture from "./NewLecture/NewLecture";
 
 function App() {
   const data = [
@@ -21,7 +20,7 @@ function App() {
   ]
   return (
     <div>
-      <NewLecture />
+      <h2>Let's get started!</h2>
       <Lecture data={data}/>
     </div>
   );
